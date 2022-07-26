@@ -1,1 +1,10 @@
-
+.hero-card {
+  height: 500px;
+}
+.hero-title {
+  color: #fa804c;
+  font-weight: 700;
+}
+.hero-title-2 {
+  font-weight: 700;
+}
